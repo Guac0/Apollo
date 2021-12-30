@@ -1,0 +1,6 @@
+"git clone https://github.com/CreepPork/Apollo"
+"npm install"
+"npm audit fix"
+edit .env and rename to ".env"
+"npm rum build"
+"npm start"
